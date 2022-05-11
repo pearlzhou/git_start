@@ -1,1 +1,2 @@
-first hello world
+# git_start
+I want to learn git.
